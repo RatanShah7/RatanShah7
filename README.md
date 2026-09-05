@@ -125,33 +125,12 @@ A platform designed to simplify the pet adoption process and help connect pets w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RatanShah7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Ratan Shah GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RatanShah7&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=RatanShah7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RatanShah7&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
