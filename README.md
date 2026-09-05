@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Ratan Shah
+# 👋 Hi, I'm Ratan Shah
 
-🎓 CSE (AIML) Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast
+### 🎓 CSE (AIML) Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast
 
 <p>
   <img src="https://img.shields.io/badge/Third%20Year-CSE%20(AIML)-blue?style=for-the-badge" alt="Third Year CSE AIML"/>
@@ -26,41 +26,42 @@
 
 </div>
 
-👨‍💻 About Me
+---
 
-🎓 Currently pursuing Computer Science Engineering (AIML) at Galgotias University
+## 👨‍💻 About Me
 
-📚 Currently in my Third Year
+- 🎓 Currently pursuing **Computer Science Engineering (AIML)** at **Galgotias University**
+- 📚 Currently in my **Third Year**
+- 💻 Interested in **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🧩 Practising **Data Structures & Algorithms** and problem solving
+- 🚀 Focused on building practical projects and improving my development skills
 
-💻 Interested in Full Stack Development
+---
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+## 🛠️ Tech Stack
 
-🧩 Practising Data Structures & Algorithms and problem solving
-
-🚀 Focused on building practical projects and improving my development skills
-
-🛠️ Tech Stack
-
-💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js" alt="Python Java JavaScript"/>
 </p>
 
-🌐 Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 </p>
 
-🔧 Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
 </p>
 
-🧩 Problem Solving
+---
+
+## 🧩 Problem Solving
 
 <p>
   <a href="https://leetcode.com/u/Ratan_Shah/">
@@ -73,41 +74,45 @@
 
 I am consistently working on improving my problem-solving ability through coding practice and Data Structures & Algorithms.
 
-🚀 Featured Projects
+---
 
-🍔 Online Food Delivery Management System
+## 🚀 Featured Projects
+
+### 🍔 Online Food Delivery Management System
 
 A project focused on managing an online food delivery workflow, including food ordering and delivery management.
 
-Tech: Java
+**Tech:** Java
 
 <a href="https://github.com/RatanShah7/food-ordering-and-delivery-management-system">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 
-🐾 Pet Adoption Management
+---
+
+### 🐾 Pet Adoption Management
 
 A platform designed to simplify the pet adoption process and help connect pets with potential adopters.
 
-Tech: Java
+**Tech:** Java
 
 <a href="https://github.com/RatanShah7/Pet_Adoption_Platform">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 
-🎯 Current Goals
+---
 
-📌 Strengthen Data Structures & Algorithms
+## 🎯 Current Goals
 
-💻 Build more full-stack projects
+- 📌 Strengthen Data Structures & Algorithms
+- 💻 Build more full-stack projects
+- 🤖 Develop practical AI/ML projects
+- 🧠 Improve problem-solving and coding consistency
+- 🚀 Build projects that combine **Full Stack Development + AI/ML**
 
-🤖 Develop practical AI/ML projects
+---
 
-🧠 Improve problem-solving and coding consistency
-
-🚀 Build projects that combine Full Stack Development + AI/ML
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -117,7 +122,9 @@ Tech: Java
 
 </div>
 
-🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -125,7 +132,9 @@ Tech: Java
 
 </div>
 
-📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -133,7 +142,9 @@ Tech: Java
 
 </div>
 
-📬 Connect With Me
+---
+
+## 📬 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/ratan-shah-97978b30a/">
@@ -144,10 +155,12 @@ Tech: Java
   </a>
 </p>
 
+---
+
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-Let's build something awesome together 🚀
+**Let's build something awesome together 🚀**
 
 </div>
