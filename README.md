@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Third%20Year-CSE%20(AIML)-blue?style=for-the-badge" alt="Third Year CSE AIML"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%2FML-purple?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/CGPA-9.05-purple?style=for-the-badge" alt="CGPA 9.05"/>
 </p>
 
 <p>
@@ -30,12 +30,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing **Computer Science Engineering (AIML)** at **Galgotias University**
+- 🎓 Pursuing **Computer Science Engineering (AIML)** at **Galgotias University**
 - 📚 Currently in my **Third Year**
+- 📊 **CGPA: 9.05**
 - 💻 Interested in **Full Stack Development**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🧩 Practising **Data Structures & Algorithms** and problem solving
-- 🚀 Focused on building practical projects and improving my development skills
+- 🧩 Practising **Data Structures & Algorithms**
+- 🚀 Focused on building practical projects and continuously improving my coding skills
 
 ---
 
@@ -102,13 +103,24 @@ A platform designed to simplify the pet adoption process and help connect pets w
 
 ---
 
+## 📜 Certifications
+
+| 🏅 Certification | 🏢 Organization | 📅 Date |
+|---|---|---|
+| 🐍 **Python Programming** | E-MAX India | Apr 2024 – Jun 2024 |
+| ☕ **Java Programming** | GUVI × HCL | 06 Apr 2025 |
+| 🧩 **Java with DSA** | — | 16 Aug 2026 |
+
+---
+
 ## 🎯 Current Goals
 
 - 📌 Strengthen Data Structures & Algorithms
-- 💻 Build more full-stack projects
+- 💻 Build more Full Stack projects
 - 🤖 Develop practical AI/ML projects
 - 🧠 Improve problem-solving and coding consistency
-- 🚀 Build projects that combine **Full Stack Development + AI/ML**
+- 🚀 Combine **Full Stack Development + AI/ML**
+- 📚 Continuously learn new technologies and development practices
 
 ---
 
@@ -116,9 +128,9 @@ A platform designed to simplify the pet adoption process and help connect pets w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RatanShah7&show_icons=true&theme=tokyonight&hide_border=true" alt="Ratan Shah GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RatanShah7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Ratan Shah GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatanShah7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatanShah7&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
 </div>
 
@@ -152,6 +164,12 @@ A platform designed to simplify the pet adoption process and help connect pets w
   </a>
   <a href="mailto:ratanshah200515@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ratanshah200515%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/Ratan_Shah/">
+    <img src="https://img.shields.io/badge/LeetCode-Ratan_Shah-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/ratan_shah">
+    <img src="https://img.shields.io/badge/CodeChef-ratan__shah-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   </a>
 </p>
 
