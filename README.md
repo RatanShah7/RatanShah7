@@ -68,6 +68,7 @@
   <a href="https://leetcode.com/u/Ratan_Shah/">
     <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
+
   <a href="https://www.codechef.com/users/ratan_shah">
     <img src="https://img.shields.io/badge/CodeChef-Practice-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   </a>
@@ -128,9 +129,9 @@ A platform designed to simplify the pet adoption process and help connect pets w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RatanShah7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Ratan Shah GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RatanShah7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Ratan Shah GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatanShah7&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RatanShah7&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
 </div>
 
@@ -140,7 +141,7 @@ A platform designed to simplify the pet adoption process and help connect pets w
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RatanShah7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=RatanShah7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -162,12 +163,15 @@ A platform designed to simplify the pet adoption process and help connect pets w
   <a href="https://www.linkedin.com/in/ratan-shah-97978b30a/">
     <img src="https://img.shields.io/badge/LinkedIn-Ratan%20Shah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:ratanshah200515@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ratanshah200515%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
+
   <a href="https://leetcode.com/u/Ratan_Shah/">
     <img src="https://img.shields.io/badge/LeetCode-Ratan_Shah-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
+
   <a href="https://www.codechef.com/users/ratan_shah">
     <img src="https://img.shields.io/badge/CodeChef-ratan__shah-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   </a>
